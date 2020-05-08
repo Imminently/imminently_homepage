@@ -23,7 +23,7 @@ email: info@imminently.co
 description: >- # this means to ignore newlines until "baseurl:"
   Imminently is a next generation incubator - designed to get your idea into exectuion imminently.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://joelith.github.io/imminently_homepage" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 site_logo_one: "/assets/img/logo/logo.png"
