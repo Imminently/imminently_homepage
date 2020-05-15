@@ -2,12 +2,12 @@
 
 - text: Home
   url: /
-- text: About
-  url: /about
+#- text: About
+#  url: /about
 #- text: Blog
 #  url: /blog
-- text: Services
-  url: /services
+#- text: Services
+#  url: /services
 #- text: Pages
 #  url: /#
 #  submenu:
